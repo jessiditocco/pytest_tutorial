@@ -1,0 +1,6 @@
+{
+  "test_fixture_example.py::test_nix_website_title": true,
+  "test_fixture_example.py::test_pytest_website_title": true,
+  "test_raise_exceptions.py::test_fails": true,
+  "test_raise_exceptions.py::test_fails_without_info": true
+}

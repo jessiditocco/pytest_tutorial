@@ -1,0 +1,11 @@
+[
+  "test_group_into_class.py::TestClass::()::test_one",
+  "test_group_into_class.py::TestClass::()::test_two",
+  "test_raise_exceptions.py::test_passes",
+  "test_raise_exceptions.py::test_passes_without_info",
+  "test_raise_exceptions.py::test_fails",
+  "test_raise_exceptions.py::test_fails_without_info",
+  "test_slow.py::test_very_long_running_test",
+  "test_tmpdir.py::test_needsfiles",
+  "test_upper_reverse.py::test_upper_reverse"
+]
